@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👶 This is **Void-7**, currently a junior stu.
+- 👶 This is **Void-7**.
 - 🏄‍  **HATE** coding when debugging, **LOVE** coding when running.
 - 🌱 Currently interested in Vue/Express/Node.js/Electron.
 - 🕶 Relaaaaaaaxing...
